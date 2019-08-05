@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Highlighter",
+    "description": "Highlight content in webpages",
+    "version": "1.0",
+    "permissions": [
+        "storage",
+        "contextMenus"
+    ],
+    "background": {
+        "scripts": [
+            "script.js"
+        ]
+    }
+}
